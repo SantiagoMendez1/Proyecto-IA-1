@@ -1,5 +1,6 @@
 # Segmentacion de Plasmodium Falciparum a partir de laminas delgadas de sangre
 ![BannerProyectoIA](https://github.com/SantiagoMendez1/Proyecto-IA-1/blob/main/BannerProyectoIA.png "Sementacion Plasmodium Falciparum")
+
 Autor: Kevin Santiago Gutierrez Mendez
 
 Objetivo: Implementar metodos de Machine Learning para la segmentacion de parasitos asociados a la malaria en muestras de sangre de hospedadores del virus.
