@@ -3,7 +3,7 @@
 
 Autor: Kevin Santiago Gutierrez Mendez
 
-Objetivo: Implementar metodos de Machine Learning para la segmentacion de parasitos asociados a la malaria en muestras de sangre de hospedadores del virus.
+Objetivo: Implementar metodos de Machine Learning para la segmentacion de parasitos asociados a la malaria en muestras de sangre tomadas a hospedadores del virus.
 
 Dataset: El dataset utilizado fue "Malaria Segmentation, A dataset for segmentation of malaria infected cells" , el cual esta compuesto por 883 imágenes RGB de muestras de laminas de sangre teñidas con Giemsa y 883 imágenes asociadas al Groudtruth de cada images. El dataset puede ser descargado en el siguiente [enlace](https://www.kaggle.com/datasets/niccha/malaria-segmentation).
 
