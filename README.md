@@ -13,4 +13,4 @@ Codigo: https://colab.research.google.com/drive/1y-xnq1hcTeqtZJVoOy7WTolSLYCod8_
 
 Video: https://youtu.be/-beeZPJOaAU
 
-Repositorio: 
+Repositorio: https://github.com/SantiagoMendez1/Proyecto-IA-1
