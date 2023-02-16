@@ -11,6 +11,6 @@ Modelos: Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Classifie
 
 Codigo:
 
-Video: 
+Video: https://youtu.be/-beeZPJOaAU
 
 Repositorio:
