@@ -1,2 +1,2 @@
 # Proyecto-IA-1
-https://raw.githubusercontent.com/SantiagoMendez1/Proyecto-IA-1/BannerProyectoIA.png
+![BannerProyectoIA](https://github.com/SantiagoMendez1/Proyecto-IA-1/blob/main/BannerProyectoIA.png "Sementacion Plasmodium")
