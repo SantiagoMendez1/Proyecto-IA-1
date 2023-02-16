@@ -9,4 +9,8 @@ Dataset: El dataset utilizado fue "Malaria Segmentation, A dataset for segmentat
 
 Modelos: Gaussian Naive Bayes, Decision Tree Classifier, Random Forest Classifier
 
+Codigo:
+
 Video: 
+
+Repositorio:
